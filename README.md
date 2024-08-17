@@ -13,7 +13,7 @@ simject is BSD-licensed. See `LICENSE` for more information.
 
 ```
 sudo xcode-select -s /Applications/Xcode.app
-git clone https://github.com/akemin-dayo/simject.git
+git clone https://github.com/dhinakg/simject.git
 cd simject/
 make all
 ```
